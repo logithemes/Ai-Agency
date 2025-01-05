@@ -1,0 +1,6 @@
+./assets/img/home-one/
+
+./assets/img/logo.svg
+./assets/img/icons/phone.svg
+
+1-home two slide img
