@@ -1,7 +1,9 @@
-./assets/img/home-one/
+./assets/img/
 
 ./assets/img/logo.svg
 ./assets/img/icons/phone.svg
 
 1-home two slide img
+2-footer and nav i dont change
+
 
