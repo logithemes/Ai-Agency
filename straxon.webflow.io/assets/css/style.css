@@ -2607,7 +2607,7 @@ blockquote {
 
 .menu-right-box {
   background-color: #1d1f34;
-  background-image: linear-gradient(114deg, #f84b68f0 25%, #b461f06b), url("https://cdn.prod.website-files.com/6667d918c80d3c3ef174c92b/667b9b27f5013932466e5cc0_image section (1).webp");
+  background-image: linear-gradient(114deg, #f84b68f0 25%, #b461f06b), url("../img/hero-demo/collaboration-img.png");
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -13558,3 +13558,6 @@ blockquote {
     grid-column: span 1 / span 1;
   }
 }
+
+
+
