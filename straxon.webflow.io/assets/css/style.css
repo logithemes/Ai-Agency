@@ -2494,7 +2494,7 @@ blockquote {
 }
 
 .home-shape-background {
-  background-image: radial-gradient(circle at 77% 54%, #b460f126, #b460f100 25%), url("https://cdn.prod.website-files.com/6667d918c80d3c3ef174c92b/667b9b24f5013932466e5ae8_bg effect.webp");
+  background-image: radial-gradient(circle at 77% 54%, #b460f126, #b460f100 25%), url("../img/background/home-shape-bg.webp");
   background-position: 0 0, 100% 47%;
   background-repeat: repeat, no-repeat;
   background-size: auto, 60%;
@@ -3745,7 +3745,7 @@ blockquote {
 
 .footer-submit-button {
   background-color: #3898ec00;
-  background-image: url("https://cdn.prod.website-files.com/6667d918c80d3c3ef174c92b/667b996adbd35ae65e50df5b_Send Icon.svg");
+  background-image: url("../img/contact-us/telegram-white.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: auto;
@@ -3924,7 +3924,7 @@ blockquote {
 }
 
 .position-relative.home-two-hero-glow {
-  background-image: radial-gradient(circle at 90% 30%, #f4497238, #f4497200 18%), radial-gradient(circle at 50% 40%, #b264f34d, #b264f300 31%), url("https://cdn.prod.website-files.com/6667d918c80d3c3ef174c92b/668d0df0f42505d6459fa4b5_Line Background.webp");
+  background-image: radial-gradient(circle at 90% 30%, #f4497238, #f4497200 18%), radial-gradient(circle at 50% 40%, #b264f34d, #b264f300 31%), url("../img/background/home-two-hero-glow.webp");
   background-position: 0 0, 0 0, 57% 7%;
   background-repeat: repeat, repeat, no-repeat;
   background-size: auto, auto, 437px;
@@ -4246,7 +4246,7 @@ blockquote {
 
 .checkbox.w--redirected-checked {
   background-color: #3898ec00;
-  background-image: url("https://cdn.prod.website-files.com/6667d918c80d3c3ef174c92b/668d0dedd37933d1fd2ce663_Checkbox Icon (1).svg"), linear-gradient(#fe4d58, #d43fc5 50%, #b264f3);
+  background-image: url("../img/background/checkbox-redirected.svg"), linear-gradient(#fe4d58, #d43fc5 50%, #b264f3);
   background-position: 50%, 0 0;
   background-size: auto, auto;
   border-style: none;
@@ -7481,7 +7481,7 @@ blockquote {
 }
 
 .team-details-approach-left {
-  background-image: url("https://cdn.prod.website-files.com/6667d918c80d3c3ef174c92b/66b98f3919f2a1f202e5d42b_Quote Icon Big.svg");
+  background-image: url("../img/background/approach.svg");
   background-position: 70% 0;
   background-repeat: no-repeat;
   background-size: auto;
@@ -7676,7 +7676,7 @@ blockquote {
 .blog-one-card {
   grid-column-gap: 40px;
   grid-row-gap: 40px;
-  background-image: url("https://cdn.prod.website-files.com/6667d918c80d3c3ef174c92b/66b9f92cabcc1051c161424b_Blog Three Test Image.avif");
+  background-image: url("../img/blog-post/blog-2.webp");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -8230,7 +8230,7 @@ blockquote {
 
 .projects-marquee-cards {
   text-align: center;
-  background-image: url("https://cdn.prod.website-files.com/6667d918c80d3c3ef174c92b/66b9f92cabcc1051c161424b_Blog Three Test Image.avif");
+  background-image: url("../img/blog-post/blog-2.webp");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -9047,7 +9047,7 @@ blockquote {
   background-color: var(--light-black);
   color: var(--heading-color);
   letter-spacing: .96px;
-  background-image: url("https://cdn.prod.website-files.com/6667d918c80d3c3ef174c92b/66c309797fe2a7598a57e9d2_main bg.svg");
+  background-image: url("../img/background/tick-current.svg");
   background-position: 89%;
   background-repeat: no-repeat;
   background-size: auto;
@@ -9655,7 +9655,7 @@ blockquote {
 }
 
 .projects-image-effect {
-  background-image: url("https://cdn.prod.website-files.com/6667d918c80d3c3ef174c92b/66beedcbfae3f0931c657f5f_Service Two Image.webp");
+  background-image: url("../img/feature/fea-2.webp");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
