@@ -234,3 +234,31 @@
                           </div>
                         </div>
                       </div>
+
+
+
+
+
+
+
+  <div class="w-layout-hflex testimonial-author-images-wrapper">
+                  <div class="testimonials-author-box-mid testimonials-author-box-left">
+                    <img width="91" height="91" alt="Author" src="../assets/img/testimonials/author-3.webp" loading="lazy" class="author-image-one" />
+                  </div>
+                  <div class="testimonials-author-box-mid">
+                    <img width="126" height="126" alt="Author" src="../assets/img/testimonials/author-2.webp" loading="lazy" class="author-image-one" />
+                  </div>
+                  <div class="testimonials-author-box-mid testimonials-author-box-right">
+                    <img width="91" height="91" alt="Author" src="../assets/img/testimonials/author-1.webp" loading="lazy" class="author-image-one" />
+                  </div>
+                </div>
+
+
+
+
+
+ <div class="w-layout-hflex project-details-image-wrap">
+              <div data-w-id="1fb3b0e6-77b1-1f37-3e21-f10121bdf477" class="overflow-hidden border-radius-thirty">
+                <img width="1290" height="550" alt="" src="../assets/img/portfolios/portfolios-4.webp" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 767px) 96vw, (max-width: 991px) 97vw, (max-width: 1439px) 98vw, 1290px" srcset="../assets/img/portfolios/portfolios-4.webp 500w, ../assets/img/portfolios/portfolios-4.webp 800w, ../assets/img/portfolios/portfolios-4.webp 1080w, ../assets/img/portfolios/portfolios-4.webp 1600w, ../assets/img/portfolios/portfolios-4.webp 2000w, ../assets/img/portfolios/portfolios-4.webp 2580w" />
+              </div>
+            </div>
